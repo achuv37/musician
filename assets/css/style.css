@@ -1,0 +1,26 @@
+body {
+    background-color: #FFFFDB;
+    font-family: Gill Sans, sans-serif;
+}
+h1 {
+    color: #003366;
+    text-align: center;
+}
+.image {
+    border-width: 5px;
+    border-style: solid;
+    border-color: #003366;
+}
+.title {
+    color: #0a75ad;
+}
+h2 {
+    color: #003366;
+    
+    font-size: 20px;
+}
+.video {
+    border-width : 10px;
+    border-style: solid;
+    border-color: #003366;
+}
